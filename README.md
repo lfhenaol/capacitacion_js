@@ -1,37 +1,35 @@
 # Agenda JS Training
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-a9zfun)
-
-- [ ] **Breve historia de JavaScript**
-  - [ ] Brendan Eich, 1995
-  - [ ] ECMA-262
-- [ ] **Usos que se le dan hoy en día a JavaScript [James Web Telescopio]**
-- [ ] **El futuro o tendencias de JavaScript**
-  - [ ] Server side rendering
-  - [ ] Programación funcional, declarativa
-  - [ ] Soporte para el metaverso y la llamada web3
-  - [ ] Crecimiento exponencial en herramientas, librerías y frameworks
-  - [ ] WebAssembly [RUST, C++, PYTHON]
-  - [ ] JavaScript como un lenguaje tipado
-  - [ ] BigData e IA
-  - [ ] TC39 Tracking ECMAScript Proposals ([https://github.com/tc39/proposals](https://github.com/tc39/proposals))
-- [ ] **Introducción a Chrome DevTools**
-  - [ ] Inspeccionar elementos
-  - [ ] Toggle devices
-  - [ ] Console tab
-  - [ ] Elements tab
-  - [ ] Sources tab
-  - [ ] Network tab
-  - [ ] Performance tab
-  - [ ] Memory tab
-  - [ ] Application Tab
-  - [ ] Lighthouse Tab
-  - [ ] Angular Dev Tool
-  - [ ] Breakpoints, Log Breakpoint
-- [ ] **ES6, ES7, ES8, ES9, ESNext…**
-- [ ] Let y const
-- [ ] **Tipos de datos primitivos a partir de ES6**
-  - [ ] Objetos
+- [x] **Breve historia de JavaScript**
+  - [x] Brendan Eich, 1995
+  - [x] ECMA-262
+- [x] **Usos que se le dan hoy en día a JavaScript [James Web Telescopio]**
+- [x] **El futuro o tendencias de JavaScript**
+  - [x] Server side rendering
+  - [x] Programación funcional, declarativa
+  - [x] Soporte para el metaverso y la llamada web3
+  - [x] Crecimiento exponencial en herramientas, librerías y frameworks
+  - [x] WebAssembly [RUST, C++, PYTHON]
+  - [x] JavaScript como un lenguaje tipado
+  - [x] BigData e IA
+  - [x] TC39 Tracking ECMAScript Proposals ([https://github.com/tc39/proposals](https://github.com/tc39/proposals))
+- [x] **Introducción a Chrome DevTools**
+  - [x] Inspeccionar elementos
+  - [x] Toggle devices
+  - [x] Console tab
+  - [x] Elements tab
+  - [x] Sources tab
+  - [x] Network tab
+  - [x] Performance tab
+  - [x] Memory tab
+  - [x] Application Tab
+  - [x] Lighthouse Tab
+  - [x] Angular Dev Tool
+  - [x] Breakpoints, Log Breakpoint
+- [x] **ES6, ES7, ES8, ES9, ESNext…**
+- [x] Let y const
+- [x] **Tipos de datos primitivos a partir de ES6**
+  - [x] Objetos
   - [ ] Arrays
 - [ ] Estructuras de iteración a partir de ES6
 - [ ] Shorthands en la creación de objetos
@@ -77,6 +75,7 @@
 
 ### Autores Expertos JavaScript en Twitter
 
+- Vanessa Marely Aristizabal Angel \*\*\*\*([https://twitter.com/vanessamarely](https://twitter.com/vanessamarely))
 - Kara Erickson ([https://twitter.com/karaforthewin](https://twitter.com/karaforthewin))
 - Kosmic Red ([https://twitter.com/carmenansio](https://twitter.com/carmenansio))
 - Emma Twersky ([https://twitter.com/twerske](https://twitter.com/twerske))
