@@ -72,6 +72,7 @@
 - **_30 days of JavaScript_** ([https://github.com/Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)) [Desafíos guiados paso a paso que permiten comprender conceptos del lenguaje como los closures y emplear buenas prácticas al codificar]
 - **_10 repositorios GitHub para llegar a ser un Desarrollador JavaScript Experto_** ([https://dev.to/pb/10-github-repositories-which-will-help-you-to-become-a-better-javascript-developer-5om](https://dev.to/pb/10-github-repositories-which-will-help-you-to-become-a-better-javascript-developer-5om)) [Listado de repositorios que presentan conceptos y proyectos JavaScript muy interesantes]
 - **_Event Loop_** ([https://www.youtube.com/watch?v=8aGhZQkoFbQ](https://www.youtube.com/watch?v=8aGhZQkoFbQ)) [En esta conferencia se entenderán conceptos como llamados a la pila de procesos o llamadas síncronas, llamadas asíncronas, macrotask, microtask y diferimiento de tareas con setTimeout ajustado con tiempo 0]
+- **_Memory Leaks_** ([https://engineering.fb.com/2022/09/12/open-source/memlab/]https://engineering.fb.com/2022/09/12/open-source/memlab/)
 
 ### Autores Expertos JavaScript en Twitter
 
