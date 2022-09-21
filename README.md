@@ -30,8 +30,8 @@
 - [x] Let y const
 - [x] **Tipos de datos primitivos a partir de ES6**
   - [x] Objetos
-  - [ ] Arrays
-- [ ] Estructuras de iteración a partir de ES6
+  - [X] Arrays
+- [X] Estructuras de iteración a partir de ES6
 - [ ] Shorthands en la creación de objetos
 - [ ] Operadores rest y spread
 - [ ] Destructuración o desempacar valores de objetos o propiedades de objetos (Destructuring)

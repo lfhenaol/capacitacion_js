@@ -28,3 +28,40 @@ const timestamp = new Date();
 console.log(timestamp.toISOString());
 console.log(timestamp.toString());
 console.log(timestamp.toLocaleDateString());
+
+// Paso de objetos por referencia y por valor
+
+// Objetos por referencia
+const objeto = { valor1: 1 };
+
+objeto.valor2 = 3;
+
+function alterarObjeto(obj) {
+  obj.valor5 = 6;
+}
+
+alterarObjeto(objeto);
+
+console.log(objeto);
+
+// Copia de objetos y paso de argumentos por valor
+
+const objeto2 = {
+  valor1: 'Hello',
+  lista: [1, 3, 4],
+  objeto: { a: 1 },
+  metodo: function () {
+    console.log('Hola');
+  },
+};
+const copiaObjeto2 = JSON.parse(JSON.stringify(objeto2));
+console.log(copiaObjeto2);
+
+function crearNuevoCampo(objeto) {
+  objeto.nuevoCampo = 2;
+  return objeto;
+}
+
+let nuevoObjeto = crearNuevoCampo(copiaObjeto2);
+console.log(objeto2);
+console.log(nuevoObjeto);
